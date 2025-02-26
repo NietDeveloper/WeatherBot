@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZKte8VNb0ctBHc8blRvml461kH5SZYohFR9Y6QVf/ZOD39DF0ysMpAIOLah2Wcj4CJcGdqZnUqKuWfUwN1EXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Mohirdev\\Qmz\\Qmz\\Qmz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\22.4.3\\telegram.bot.22.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
