@@ -14,7 +14,7 @@ class Program
     static async Task Main()
     {
         var botClient = new TelegramBotClient(botToken);
-        Console.WriteLine("Successful....");
+        Console.WriteLine("Successful...");
 
         while (true)
         {
